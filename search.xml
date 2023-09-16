@@ -3,7 +3,7 @@
   <entry>
     <title>WELCOME</title>
     <url>/2023/09/16/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hduhub.top/">����ǧ��’S BLOG</a>! </p>
+    <content><![CDATA[<p>Welcome to <a href="https://hduhub.top/">壁立千仞’S BLOG</a>! </p>
 <h2 id="Qulickly-Start"><a href="#Qulickly-Start" class="headerlink" title="Qulickly Start"></a>Qulickly Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
